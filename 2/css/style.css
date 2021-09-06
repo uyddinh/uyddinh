@@ -1,0 +1,10 @@
+.banner h1{
+    font-size: 48px;
+    line-height: 123.6%;
+    color: #2B2B2B;
+    margin-bottom: 18px;
+}
+.banner h1 span{
+    color: #FFB400;
+}
+
